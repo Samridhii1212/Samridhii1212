@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **samridhis4422@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c8ZKFeh4eHzF5eIkZjlPRET6s4BtCyI4/view](https://drive.google.com/file/d/1c8ZKFeh4eHzF5eIkZjlPRET6s4BtCyI4/view)
+- 📄 Know about my experiences https://portfolio-4vdi.vercel.app/
 
 <br>
 
