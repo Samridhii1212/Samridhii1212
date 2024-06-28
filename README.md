@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samridhii1212?tab=repositories](https://github.com/Samridhii1212?tab=repositories)
 
-- 💬 Ask me about **React,Redux,Javascript,MongoDB,ExpressJS**
+- 💬 Ask me about **React,Redux,Javascript,MongoDB,ExpressJS,NodeJs**
 
 - 📫 How to reach me **samridhis4422@gmail.com**
 
